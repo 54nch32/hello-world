@@ -1,2 +1,5 @@
 # hello-world
-Octo-happiness? Rly?
+
+Hello.
+
+I'm just trying to get grip of github.
